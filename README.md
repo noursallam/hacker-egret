@@ -2,7 +2,7 @@
 ethical hacker helper
 <br>
 <h1>important </h1>
-the public edition is very smaller than the main version 
+<h1>the public edition is very smaller than the main version </h1>
 soon will be published 
 
 
@@ -36,15 +36,15 @@ The website includes a canvas animation that displays falling characters, giving
 - CSS
 - Bootstrap
 - JavaScript
+- php
 
 ---
 
 ## Usage
-To use the website, simply navigate to the desired tool or information section using the navigation links provided.
-
+ethical hacker tools 
 ---
 
 ## Credits
-- Developed by: [Your Name]
-- Contact: [Your Email]
+- Developed by: [nour sallam]
+- Contact: [noursallam396@gmail.com]
 
