@@ -1,3 +1,1 @@
-
-
 ![Image Description](img)
